@@ -46,3 +46,9 @@ The `tasks` table connects to the `categories` table via a **foreign key** (`cat
 - `Category` model — has many tasks (`hasMany`)
 
 This relationship ensures every task is always linked to a valid category.
+
+## Group Members
+- John Paul A. Laforteza
+- Arjel Joseph D. Laguardia
+- Kreshille G. Tagum
+- Mailene DG. Terrado
