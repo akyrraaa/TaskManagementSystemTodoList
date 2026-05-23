@@ -11,8 +11,8 @@ A simple To-Do App built with Laravel 13, MySQL, and pure CSS.
 ## Setup Instructions
 
 1. **Clone the repository**
-   git clone <your-repo-url>
-   cd TaskManagementSystem
+   git clone https://github.com/akyrraaa/TaskManagementSystemTodoList.git
+   cd TaskManagementSystemTodoList
 
 2. **Install dependencies**
    composer install
